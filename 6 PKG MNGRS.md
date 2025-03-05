@@ -1,6 +1,7 @@
 ---
 создал заметку: "2025-02-18"
 ---
+**aptitude** -  Открывает высокоинтегрированный интерфейс для взаимодействия с менеджером пакетов машины.(apt install)
 ## **OC семейства Debian, Ubuntu** 
 
 **sudo apt update** - обновить сведения о пакетах
@@ -49,11 +50,11 @@
 
 **pacman -Q** - узнать, какие программы установлены в системе
 
-## **pkg*-based distributions (OpenBSD, FreeBSD, etc**
+## **pkg-based distributions (OpenBSD, FreeBSD, etc**
 
 **pkg_info** - узнать, какие программы установлены в системе
 
-## **Portage-based distributions (Gentoo, etc) **
+## **Portage-based distributions (Gentoo, etc)**
 
 **equery list or eix -I** - узнать, какие программы установлены в системе
 
